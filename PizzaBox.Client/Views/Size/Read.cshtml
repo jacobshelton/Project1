@@ -1,0 +1,8 @@
+@model List<PizzaBox.Domain.Models.Size>
+
+<ul>
+  @foreach (var item in Model)
+  {
+    <li>@item.Name &nbsp; $@item.Price</li>
+  }
+</ul>
