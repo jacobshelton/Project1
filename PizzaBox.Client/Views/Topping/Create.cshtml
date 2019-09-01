@@ -1,0 +1,11 @@
+@model PizzaBox.Domain.Models.Topping
+
+<form action="/topping/create" method="post">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" placeholder="Topping Name">
+
+    <label for="price">Price</label>
+    <input type="number" step="0.01" id="price" name="price">
+
+    <button type="submit">Add Topping</button>
+</form>

@@ -36,4 +36,7 @@ C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Crust\C
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Crust\Read.g.cshtml.cs
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Size\Create.g.cshtml.cs
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Size\Read.g.cshtml.cs
-C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Size\Update.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Topping\Create.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Topping\Read.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\ItemManager\Select.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\PizzaManager\Select.g.cshtml.cs
