@@ -1,20 +1,15 @@
 using System;
 using System.Collections.Generic;
-using PizzaBox.Domain.Abstract;
+//using PizzaBox.Domain.Abstract;
 
 namespace PizzaBox.Domain.Models
 {
-    public class Pizza : APizza
+    public class Pizza
     {
-        public override string ToString()
-        {
-            return $"{Size.Name} {Crust.Name} {Toppings.GetRange(0, Toppings.Count-1)}";
-        }
-        
-        //cost
-        //public double Price {get; set;}
-
-        //2 default toppings
-        //toppings limit 5
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public Crust Crust {get; set;}
+        public Size Size {get; set;}
+        public List<Topping> Toppings {get; set;}
     }
 }

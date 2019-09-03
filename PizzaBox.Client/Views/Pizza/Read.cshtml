@@ -1,8 +1,8 @@
-@model List<PizzaBox.Domain.Models.Crust>
+@model List<PizzaBox.Domain.Models.Pizza>
 
 <ul>
   @foreach (var item in Model)
   {
-    <li>@item.Name &nbsp; $@item.Price</li>
+    <li>@item.Name</li>
   }
 </ul>

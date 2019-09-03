@@ -1,0 +1,14 @@
+@model List<PizzaBox.Domain.Models.Topping>
+
+<form action="/pizza/toppingselect" method="post">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <input type="checkbox" name="name" value="@item.Name">
+            <label>&nbsp; @item.Name</label>
+            <br>
+        }
+    </ul>
+
+    <button type="submit">Create Pizza</button>
+</form>

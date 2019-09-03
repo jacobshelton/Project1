@@ -40,3 +40,8 @@ C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Topping
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Topping\Read.g.cshtml.cs
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\ItemManager\Select.g.cshtml.cs
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\PizzaManager\Select.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\Create.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\CrustSelect.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\Read.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\SizeSelect.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\ToppingSelect.g.cshtml.cs

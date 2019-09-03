@@ -1,18 +1,9 @@
 @model PizzaBox.Domain.Models.Pizza
 
 <form action="/pizza/create" method="post">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" placeholder="Pizza Name">
 
-    <fieldset name="Radiobutton">
-        <label><input type="radio" asp-for="@Model.Crust" value="Thin">Baked</label>
-        <label><input type="radio" asp-for="@Model.Crust" value="coal">Toasted</label>
-    </fieldset>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Pizza Name">
 
-    @for (int i = 0; i < Model.Crust; i++)
-    {
-        <label><input type="radio" asp-for="@Model.Crust" value="Crust[i].Name">Crust.Name</label>
-    }
-
-    <button type="submit">Add Crust</button>
+    <button type="submit">Next -></button>
 </form>
