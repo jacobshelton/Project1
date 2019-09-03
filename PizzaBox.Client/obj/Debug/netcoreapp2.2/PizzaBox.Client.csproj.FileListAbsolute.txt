@@ -45,3 +45,16 @@ C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\C
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\Read.g.cshtml.cs
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\SizeSelect.g.cshtml.cs
 C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Pizza\ToppingSelect.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\User\Read.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Home\UserIndex.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\User\Login.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\UserPizza\Create.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\UserPizza\CrustSelect.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\UserPizza\SizeSelect.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\LocationManager\Select.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Location\Create.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\Location\Read.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\UserPizza\ChooseLocation.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\UserPizza\Read.g.cshtml.cs
+C:\revature\Project1\PizzaBox.Client\obj\Debug\netcoreapp2.2\Razor\Views\UserPizza\ToppingSelect.g.cshtml.cs

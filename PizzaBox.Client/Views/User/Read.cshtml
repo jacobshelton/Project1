@@ -1,0 +1,8 @@
+@model List<PizzaBox.Domain.Models.User>
+
+<ul>
+  @foreach (var item in Model)
+  {
+    <li>@item.Name</li>
+  }
+</ul>

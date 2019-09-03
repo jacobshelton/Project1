@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using PizzaBox.Data;
 using PizzaBox.Domain.Models;
 
-namespace PizzaPlanet.Client.Controllers
+namespace PizzaBox.Client.Controllers
 {
   public class ToppingController : Controller
   {

@@ -1,0 +1,14 @@
+@model List<PizzaBox.Domain.Models.Crust>
+
+<form action="/userpizza/crustselect" method="post">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <input type="radio" id="id" name="name" value="@item.Name">
+            <label>&nbsp; @item.Name</label>
+            <br>
+        }
+    </ul>
+
+    <button type="submit">Next -></button>
+</form>

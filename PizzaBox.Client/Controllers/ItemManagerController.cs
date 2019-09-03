@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PizzaPlanet.Client.Controllers
+namespace PizzaBox.Client.Controllers
 {
   public class ItemManagerController : Controller
   {

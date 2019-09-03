@@ -1,0 +1,14 @@
+@model List<PizzaBox.Domain.Models.Location>
+
+<form action="/userpizza/chooselocation" method="post">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <input type="radio" id="id" name="address" value="@item.Address">
+            <label>&nbsp; @item.Address</label>
+            <br>
+        }
+    </ul>
+
+    <button type="submit">Next -></button>
+</form>

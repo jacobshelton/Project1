@@ -1,0 +1,12 @@
+@model PizzaBox.Domain.Models.User
+
+<div class="text-center">
+    <form action="/user/login" method="post">
+        <label for="name">Username</label>
+        <input type="text" id="name" name="name">
+
+        <button type="submit">Login</button>
+
+        <a href="/user/create">Register</a>
+    </form>
+</div>

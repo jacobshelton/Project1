@@ -4,8 +4,8 @@
     <ul>
         @foreach (var item in Model)
         {
-            <input type="checkbox" name="name" value="@item.Name">
-            <label>&nbsp; @item.Name</label>
+            <input type="checkbox" name="toppings" value="@item.Name">
+            <label>&nbsp; @item.Name &nbsp; @item.Price</label>
             <br>
         }
     </ul>
